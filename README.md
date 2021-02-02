@@ -1,4 +1,4 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
 
@@ -96,7 +96,3 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 * (Optional) Create a Jupyter Notebook of the bonus analysis.
 
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
